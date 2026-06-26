@@ -1,0 +1,2 @@
+r2_score_train = 0.833293
+r2_score_val = 0.798376
